@@ -1,8 +1,8 @@
-<img src="https://c.tenor.com/e8O3ysG8kHMAAAAC/dance-dancing.gif" width="800" height="300" />
+<img src="https://c.tenor.com/e8O3ysG8kHMAAAAC/dance-dancing.gif"  height="300" width="100%"  />
 <!--- Head --->
 
 <h1 align="center">Ruhrozz</h1> 
-<h3 align="center">Description</h3>
+<h3 align="center">Some description...</h3>
 
 
 <!--- Perks icons --->
