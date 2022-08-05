@@ -1,4 +1,4 @@
-<img src="https://c.tenor.com/e8O3ysG8kHMAAAAC/dance-dancing.gif" width="400" height="400" />
+<img src="https://c.tenor.com/e8O3ysG8kHMAAAAC/dance-dancing.gif" width="800" height="400" />
 <!--- Head --->
 
 <h1 align="center">Ruhrozz</h1> 
