@@ -13,7 +13,7 @@
 |---|---|---|---|
 
 
-<h3 align="left">Knowledge:</h3>
+<h3 align="left">Theory Knowledge:</h3>
 
 | <a href="https://www.scrum.org/" target="_blank" rel="noreferrer"> <img src="https://www.kindpng.com/picc/m/53-539760_scrum-logo-hd-png-download.png" alt="c" width="60" height="60"/> </a> | <a href="https://kanban.university/" target="_blank" rel="noreferrer"> <img src="https://cdn3.iconfinder.com/data/icons/kanban-board/128/Kanban_Board-512.png" alt="c" width="60" height="60"/> </a> |
 |---|---|
