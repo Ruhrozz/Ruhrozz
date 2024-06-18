@@ -9,9 +9,9 @@
 
 <h3 align="left">Skills:</h3>
 
-| <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="logo/c.svg" alt="c" width="60" height="60"/> </a> | <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="logo/python.svg" alt="python" width="60" height="60"/> </a>  | <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="logo/pytorch.svg" alt="pytorch" width="60" height="60"/> </a> | <a href="https://lightning.ai/" target="_blank" rel="noreferrer"> <img src="logo/lightning.png" alt="lightning" width="60" height="60"/> </a>  |
-|---|---|---|---|
-| <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="logo/linux.svg" alt="linux" width="60" height="60"/> </a> | <a href="https://archlinux.org/" target="_blank" rel="noreferrer"> <img src="logo/arch_linux.svg" alt="arch linux" width="60" height="60"/> </a> | <a href="https://nixos.org/" target="_blank" rel="noreferrer"> <img src="logo/nixos.svg" alt="linux" width="60" height="60"/> </a> | <a href="https://neovim.io/" target="_blank" rel="noreferrer"> <img src="logo/neovim.svg" alt="linux" width="60" height="60"/> </a> |
+| <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="logo/c.svg" alt="c" width="60" height="60"/> </a> | <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="logo/python.svg" alt="python" width="60" height="60"/> </a>  | <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="logo/pytorch.svg" alt="pytorch" width="60" height="60"/> </a> | <a href="https://lightning.ai/" target="_blank" rel="noreferrer"> <img src="logo/lightning.png" alt="lightning" width="60" height="60"/> </a>  | <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="logo/linux.svg" alt="linux" width="60" height="60"/> </a> | <a href="https://archlinux.org/" target="_blank" rel="noreferrer"> <img src="logo/arch_linux.svg" alt="arch linux" width="60" height="60"/> </a> | <a href="https://nixos.org/" target="_blank" rel="noreferrer"> <img src="logo/nixos.svg" alt="linux" width="60" height="60"/> </a> | <a href="https://neovim.io/" target="_blank" rel="noreferrer"> <img src="logo/neovim.svg" alt="linux" width="60" height="60"/> </a> |
+|---|---|---|---|---|---|---|---|
+
 
 
 <!--- Statistics --->
