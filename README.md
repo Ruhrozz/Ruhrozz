@@ -25,17 +25,9 @@
 |---|---|
 
 
-<!--- Current work --->
-
-# Im currently working on [Ruhtils](https://github.com/Ruhrozz/Ruhtils)
-<img alt="Lines of code" src="https://img.shields.io/tokei/lines/github/Ruhrozz/Ruhtils?style=for-the-badge">
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Ruhrozz/Ruhtils?style=for-the-badge">
-
-
 <!--- Social --->
 
 <h3 align="left">Connect with me:</h3>
 
-<a href="https://vk.com/ruhrozz1" target="blank"><img align="center" src="https://formula7r.ru/wp-content/uploads/2018/11/8cfb76c8af04b72de1096c55862ae518.png" height="40" width="40" /></a> 
-<a href="https://t.me/Ruhrozz" target="blank"><img align="center" src="https://www.rogovskoe.org/files/rogovskoe/news/2022/03.18/tg.png" height="40" width="40" /></a> 
+<a href="https://t.me/Ruhrozz" target="blank"><img align="center" src="./telegram.png" height="40" width="40" /></a> 
 
